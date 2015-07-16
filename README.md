@@ -9,7 +9,7 @@ La mise en forme est réalisée avec booststrap. J'utilise la version maxcnd 3.3
 
 Les données sont traitées en PHP.
 
-J'utilise la fonction strip_tags pour supprimer du code HTML injecter dans les champs de saisie.
+J'utilise la fonction strip_tags pour supprimer du code HTML qui pourrait être injecté dans les champs de saisie.
 
 Le mot de passe n'est pas crypté.
 
