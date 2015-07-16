@@ -8,13 +8,28 @@
         <title>Transmettre des données par formulaire</title>
         
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css"  href="css/style_01.css" media="all">
+        <link rel="stylesheet" type="text/css"  href="css/style_structure_01.css" media="all">
         
         
     </head>
  
     <body> 
         <div class="container">
+            <section class="row">
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+                <div class="col-lg-1">1 colonnes</div>
+            </section>
+
             <h1 class="row">Transmettre des données par formulaire</h1>
             <div class="row">
                 <form class="form-horizontal col-sm-12" method="post" action="pages/form_resultat.php">
@@ -102,8 +117,6 @@
                             </div>
                         </div>
                     </div>
-                    
-                    <button type="submit" class="btn btn-default btn-lg pull-right">Envoyer</button>
                 </form>
             </div>
         </div>
