@@ -1,0 +1,25 @@
+/**
+ * Formulaire / Bootstrap
+ * Développement d'un formulaire
+ * Traitement des données en PHP
+ * Mise en forme du formulaire avec Bootstrap
+ *
+ * @project     bootstrap-form
+ * @namefile    style_01.css
+ * @fileversion 1.0.0
+ * @cssversion  css3
+ * @author      Christophe Malo
+ * @copyright   2015 by the author
+ * @license     no license - free to use - just link to my github - Thanks :)
+ * @mygithub    https://github.com/ChristopheMalo    
+*/
+/**
+
+/**
+ * -------------------------
+ * Generique
+ * -------------------------
+ */
+body {
+    padding: 30px 0 50px 0;
+}
